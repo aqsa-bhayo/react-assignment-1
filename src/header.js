@@ -1,7 +1,9 @@
 const Header = ()=>{
+    console.log('header');
+    
     return (
         <>
-        <h1>Header</h1>
+        <h1>App Header</h1>
         </>
     )
 }

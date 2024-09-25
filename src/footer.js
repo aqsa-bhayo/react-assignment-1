@@ -1,9 +1,11 @@
 import React from 'react'
 
 const Footer = () => {
+  console.log('footer');
+  
   return (
     <div>
-      Footer
+      footer-app
     </div>
   )
 }
